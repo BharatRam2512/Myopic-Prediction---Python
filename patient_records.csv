@@ -1,0 +1,2 @@
+Patient_ID,Patient_Name,Age,Sex,Screen_Time,Sun_Exposure,Sun_Time,Parent_Vision,Vision_Rating,Status
+1,Bharat ,21.0,Male,12.0,Yes,0.0,4.0,2,Myopic
